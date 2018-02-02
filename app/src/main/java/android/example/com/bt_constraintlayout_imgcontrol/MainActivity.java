@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
         txt = findViewById(R.id.textView);
         txt2 = findViewById(R.id.textView2);
 
+        //.sfjkojasjfasdyfjajkfsdhfuisdahrjatyfjdasgu
+
         arrContent = new ArrayList<>();
 //        arrayList = new ArrayList<>();
 //        arrayList.add(R.drawable.a01);
